@@ -3,7 +3,7 @@
     <title>Things I did</title>
     <link href="https://trost123.github.io/feed.xml" rel="self" />
     <link href="https://trost123.github.io" />
-    <updated>2018-11-02T02:22:12+02:00</updated>
+    <updated>2018-11-02T02:42:38+02:00</updated>
     <author>
         <name>Trost</name>
     </author>
@@ -44,10 +44,10 @@
         </author>
         <link href="https://trost123.github.io/animated-banners-a-first-hobby-job.html"/>
         <id>https://trost123.github.io/animated-banners-a-first-hobby-job.html</id>
+            <category term="graphics"/>
             <category term="flash"/>
-            <category term="animation"/>
 
-        <updated>2018-11-02T02:16:17+02:00</updated>
+        <updated>2018-11-02T02:36:18+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://trost123.github.io/media/posts/3/maxresdefault1.jpg" alt="" />
