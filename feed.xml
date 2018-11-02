@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Things I did</title>
-    <link href="https://Trost123.github.io/gh-pages/feed.xml" rel="self" />
-    <link href="https://Trost123.github.io/gh-pages" />
-    <updated>2018-11-02T00:14:55+02:00</updated>
+    <link href="https://trost123.github.io/feed.xml" rel="self" />
+    <link href="https://trost123.github.io" />
+    <updated>2018-11-02T02:21:35+02:00</updated>
     <author>
         <name>Trost</name>
     </author>
-    <id>https://Trost123.github.io/gh-pages</id>
+    <id>https://trost123.github.io</id>
 
     <entry>
         <title>How I made this site</title>
         <author>
             <name>Trost</name>
         </author>
-        <link href="https://Trost123.github.io/gh-pages/how-i-made-this-site.html"/>
-        <id>https://Trost123.github.io/gh-pages/how-i-made-this-site.html</id>
+        <link href="https://trost123.github.io/how-i-made-this-site.html"/>
+        <id>https://trost123.github.io/how-i-made-this-site.html</id>
             <category term="webdev"/>
 
-        <updated>2018-11-02T00:14:43+02:00</updated>
+        <updated>2018-11-02T00:33:25+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://Trost123.github.io/gh-pages/media/posts/1/1d52ea15da65b00cd769c1a397435e85-mr-robot-robots.jpg" alt="" />
+                        <img src="https://trost123.github.io/media/posts/1/tumblr_nmz6b7YNn11tn1d6wo1_1280-6448.jpg" alt="Mr. Robot. Hello friend." />
                     Today I'm going to tell you how I quickly made this website&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://Trost123.github.io/gh-pages/media/posts/1/1d52ea15da65b00cd769c1a397435e85-mr-robot-robots.jpg" alt="" />
+                    <img src="https://trost123.github.io/media/posts/1/tumblr_nmz6b7YNn11tn1d6wo1_1280-6448.jpg" alt="Mr. Robot. Hello friend." />
                 <p class="msg msg--highlight ">Today I'm going to tell you how I quickly made this website using <a href="https://getpublii.com/" target="_blank" rel="noopener noreferrer" title="Publii, a new Static CMS with GUI to build an extremely safe, fast and stylish HTML website.">Publii</a> and hosted it for free on <a href="https://pages.github.com/" title="Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live." target="_blank" rel="noopener noreferrer">GitHub Pages</a>.</p>
 <p>My goal was to <span style="text-decoration: underline;">quickly</span> develop and <span style="text-decoration: underline;">host</span> a simple, yet good-looking portfolio\blog site <span style="text-decoration: underline;">for free</span>. After some research I found <a href="https://getpublii.com/" target="_blank" rel="noopener noreferrer" title="Publii, a new Static CMS with GUI to build an extremely safe, fast and stylish HTML website.">Publii</a> - a no-database CMS, that allows to easily upload to <a href="https://pages.github.com/" title="Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live." target="_blank" rel="noopener noreferrer">GitHub Pages</a> for a free hosting. And it features a nice set of <a href="https://marketplace.getpublii.com/products/category/freebies/" title="Free Publii themes" target="_blank" rel="noopener noreferrer">free themes</a>!</p>
 <p>Publii is a free desktop app that allows you to edit and manage your site's content using intuitive user interface. No html\css knowledge required.</p>

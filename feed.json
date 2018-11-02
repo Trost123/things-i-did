@@ -2,20 +2,20 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Things I did",
     "description": "",
-    "home_page_url": "https://Trost123.github.io/gh-pages",
-    "feed_url": "https://Trost123.github.io/gh-pages/feed.json",
+    "home_page_url": "https://trost123.github.io",
+    "feed_url": "https://trost123.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "Trost"
     },
     "items": [
         {
-            "id": "https://Trost123.github.io/gh-pages/how-i-made-this-site.html",
-            "url": "https://Trost123.github.io/gh-pages/how-i-made-this-site.html",
+            "id": "https://trost123.github.io/how-i-made-this-site.html",
+            "url": "https://trost123.github.io/how-i-made-this-site.html",
             "title": "How I made this site",
             "summary": "Today I'm going to tell you how I quickly made this website&hellip;",
             "content_html": "<p class=\"msg msg--highlight \">Today I'm going to tell you how I quickly made this website using <a href=\"https://getpublii.com/\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"Publii, a new Static CMS with GUI to build an extremely safe, fast and stylish HTML website.\">Publii</a> and hosted it for free on <a href=\"https://pages.github.com/\" title=\"Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live.\" target=\"_blank\" rel=\"noopener noreferrer\">GitHub Pages</a>.</p>\n<p>My goal was to <span style=\"text-decoration: underline;\">quickly</span> develop and <span style=\"text-decoration: underline;\">host</span> a simple, yet good-looking portfolio\\blog site <span style=\"text-decoration: underline;\">for free</span>. After some research I found <a href=\"https://getpublii.com/\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"Publii, a new Static CMS with GUI to build an extremely safe, fast and stylish HTML website.\">Publii</a> - a no-database CMS, that allows to easily upload to <a href=\"https://pages.github.com/\" title=\"Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live.\" target=\"_blank\" rel=\"noopener noreferrer\">GitHub Pages</a> for a free hosting. And it features a nice set of <a href=\"https://marketplace.getpublii.com/products/category/freebies/\" title=\"Free Publii themes\" target=\"_blank\" rel=\"noopener noreferrer\">free themes</a>!</p>\n<p>Publii is a free desktop app that allows you to edit and manage your site's content using intuitive user interface. No html\\css knowledge required.</p>\n<p><img src=\"https://getpublii.com/assets/svg/publii-app.svg\" alt=\"Publii screenshot\" width=\"500\" height=\"289\"></p>\n<p>(Although, I do know how build sites from scratch, I think using a ready solution is smarter than hand-crafting your site from scratch.)</p>\n<p>That's it. I could go more in-depth about setting it up, but there are already <a href=\"https://getpublii.com/docs/host-static-website-github-pages.html\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"How to create a static website using Github Pages\">plenty of guides on it</a>.</p>",
-            "image": "https://Trost123.github.io/gh-pages/media/posts/1/1d52ea15da65b00cd769c1a397435e85-mr-robot-robots.jpg",
+            "image": "https://trost123.github.io/media/posts/1/tumblr_nmz6b7YNn11tn1d6wo1_1280-6448.jpg",
             "author": {
                 "name": "Trost"
             },
@@ -23,7 +23,7 @@
                    "webdev"
             ],
             "date_published": "2018-11-02T00:14:43+02:00",
-            "date_modified": "2018-11-02T00:14:43+02:00"
+            "date_modified": "2018-11-02T00:33:25+02:00"
         }
     ]
 }
