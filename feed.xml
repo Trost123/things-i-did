@@ -3,72 +3,12 @@
     <title>Things I did</title>
     <link href="https://trost123.github.io/feed.xml" rel="self" />
     <link href="https://trost123.github.io" />
-    <updated>2018-11-02T02:50:53+02:00</updated>
+    <updated>2018-11-02T17:09:11+02:00</updated>
     <author>
         <name>Trost</name>
     </author>
     <id>https://trost123.github.io</id>
 
-    <entry>
-        <title>My first game - BrainDef</title>
-        <author>
-            <name>Trost</name>
-        </author>
-        <link href="https://trost123.github.io/my-first-game-braindef.html"/>
-        <id>https://trost123.github.io/my-first-game-braindef.html</id>
-            <category term="gamedev"/>
-            <category term="flash"/>
-
-        <updated>2018-11-02T01:53:06+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://trost123.github.io/media/posts/2/IneK2YV1.png" alt="BrainDef flash game" />
-                    Back in 2012, after reading a lot of success stories on flashgamedev.ru I&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://trost123.github.io/media/posts/2/IneK2YV1.png" alt="BrainDef flash game" />
-                <p>Back in 2012, after reading a lot of success stories on <a href="http://flashgamedev.ru/">flashgamedev.ru</a> I decided to try creating a game myself.</p>
-<p>This was my first experience of programming. I used Adobe Flash (which uses ActionScript3 as a scripting language). I used <a href="http://gamedev.michaeljameswilliams.com/as3-avoider-game-tutorial-base/" target="_blank" rel="noopener noreferrer">this amazing tutorial</a> to learn how to create a basic shooter game in Flash, and then just remixed it a little.</p>
-<p>In this game you can find references to my favourite games of the time: Team Fortress 2, C&amp;C, Wormix.</p>
-<p>You can <a href="https://www.kongregate.com/games/trost123/braindef" target="_blank" rel="noopener noreferrer" title="Play BrainDef on Kongregate">play BrainDef on Kongregate</a>.</p>
-<p><img src="https://i.imgur.com/lgfecFT.png" alt="BrainDef screenshot" width="722" height="502"></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Animated Banners - a first hobby job</title>
-        <author>
-            <name>Trost</name>
-        </author>
-        <link href="https://trost123.github.io/animated-banners-a-first-hobby-job.html"/>
-        <id>https://trost123.github.io/animated-banners-a-first-hobby-job.html</id>
-            <category term="graphics"/>
-            <category term="flash"/>
-
-        <updated>2018-11-02T02:50:45+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://trost123.github.io/media/posts/3/maxresdefault1.jpg" alt="" />
-                    Somwhere in 2011 (on my first year of university) I started earning some pocket&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://trost123.github.io/media/posts/3/maxresdefault1.jpg" alt="" />
-                <p>Somwhere in 2011 (on my first year of university) I started earning some pocket money as a freelancer. It wasn't much, but it was fun. I always wanted to become an animator - and this job was basically about animating adverisement banners in Adobe Flash.</p>
-<p>Here are some examples of those banners. For more you can <a href="https://www.fl.ru/users/billcosby/portfolio/" target="_blank" rel="noopener noreferrer">look into my fl.ru profile</a>.</p>
-<p><object id="viewattachswf_d38e6192e875efd80b6bb3cbd2330d4f" style="visibility: visible;" data="https://st.fl.ru/users/bi/billcosby/upload/f_4e8dec3962052.swf" type="application/x-shockwave-flash" width="188" height="257"><param name="allowscriptaccess" value="never" /><param name="wmode" value="" /></object> <object id="viewattachswf_dc25ad4f25238c4c3715ca19a2c9666f" style="visibility: visible;" data="https://st.fl.ru/users/bi/billcosby/upload/f_4ec03fdcad9eb.swf" type="application/x-shockwave-flash" width="468" height="90"><param name="allowscriptaccess" value="never" /><param name="wmode" value="" /></object></p>
-<p>The more I used Adobe Flash, the more creative I started getting. I found out that you can also do interactive stuff in flash, so I dived into simple scripting and created this: a plate-clock that shows real time, with a silly secret that you could find if you drag a knife or a fork with your mouse!<object id="viewattachswf_ed69d4f773657ec284ec32a98414e3f8" style="visibility: visible;" data="https://st.fl.ru/users/bi/billcosby/upload/f_4e78f787902ea.swf" type="application/x-shockwave-flash" width="500" height="500"><param name="allowscriptaccess" value="never" /><param name="wmode" value="" /></object></p>
-<p>Here are some screenshots for those, who can't use flash in their browser:</p>
-<p><img src="https://i.imgur.com/UXurmVH.png"></p>
-<p><img src="https://i.imgur.com/gofl8L8.png"> <img src="https://i.imgur.com/WfZIXiQ.png"> <img src="https://trost123.github.io/media/posts/3/d7jvduqi.bmp" alt="" width="150" height="195"></p>
-<p><img src="https://i.imgur.com/HC9wrCV.png"></p>
-<p>This was an incredible experience and helped me learn basics of animation and scripting, which I later used to <a href="#INTERNAL_LINK#/post/2">develop flash games</a>.</p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>How I made this site</title>
         <author>
@@ -94,6 +34,207 @@
 <p><img src="https://getpublii.com/assets/svg/publii-app.svg" alt="Publii screenshot" width="500" height="289"></p>
 <p>(Although, I do know how build sites from scratch, I think using a ready solution is smarter than hand-crafting your site from scratch.)</p>
 <p>That's it. I could go more in-depth about setting it up, but there are already <a href="https://getpublii.com/docs/host-static-website-github-pages.html" target="_blank" rel="noopener noreferrer" title="How to create a static website using Github Pages">plenty of guides on it</a>.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>MonsterCraft2 - making sequels is hard</title>
+        <author>
+            <name>Trost</name>
+        </author>
+        <link href="https://trost123.github.io/monstercraft2-making-sequels-is-hard.html"/>
+        <id>https://trost123.github.io/monstercraft2-making-sequels-is-hard.html</id>
+            <category term="gamedev"/>
+            <category term="flash"/>
+
+        <updated>2018-11-02T17:08:26+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://trost123.github.io/media/posts/7/VNtOyGe1.png" alt="" />
+                    After good reception of MonsterCraft it was obvious that we should release&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://trost123.github.io/media/posts/7/VNtOyGe1.png" alt="" />
+                <p>After good reception of <a href="#INTERNAL_LINK#/post/6">MonsterCraft</a> it was obvious that we should release a sequel. Turns out, making a good sequel is not as easy as it seems - we had to add new stuff without overcomplicating things.</p>
+<p>Here is a list of things we decided to do in the sequel:</p>
+<ul>
+<li>Added in a third race - demons. Demons can't be crafted, but player can capture and use them later in the game.</li>
+<li>Added an ability to buy armor for your units. So now each unit has 3 tiers: no armor, light armor, heavy armor.</li>
+<li>Added spells - a way for a player to take part in fights.</li>
+<li>Made a game longer by adding more worlds\levels.</li>
+<li>Added a boss in the end of each world. Final boss also tricky and required smart use of spells to win.</li>
+<li>Added achievements.</li>
+</ul>
+<img src="http://www.gamesforwork.com/games/images/Monster-Craft-2_September_11th_2015.jpg"><br>
+<p>You can <a href="http://www.crazygames.com/game/monster-craft-2" target="_blank" rel="noopener noreferrer">play MonsterCraft 2 here</a> or watch a let's play:<br><iframe width="560" height="315" src="https://www.youtube.com/embed/OF5UsS4UN0k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Crimson Squad - Trying to make a bigger game</title>
+        <author>
+            <name>Trost</name>
+        </author>
+        <link href="https://trost123.github.io/a-pinnacle-of-my-flash-gamedev-crimson-squad.html"/>
+        <id>https://trost123.github.io/a-pinnacle-of-my-flash-gamedev-crimson-squad.html</id>
+            <category term="gamedev"/>
+            <category term="flash"/>
+
+        <updated>2018-11-02T17:07:31+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://trost123.github.io/media/posts/5/MainMenu.jpg" alt="" />
+                    This one took a while to finish. Still working with the same&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://trost123.github.io/media/posts/5/MainMenu.jpg" alt="" />
+                <p>This one took a while to finish. Still working with the same team I made <a href="#INTERNAL_LINK#/post/4">Cortex Fortress</a> and <a href="#INTERNAL_LINK#/post/6">MonsterCraft</a> with, we decided to make something more complex: a top-down shooter with a lot of levels, enemy types, weapons, perks, bosses etc.</p>
+<p>Our 3d artist rendered 3d models and effects into images so we could simulate 3d in flash. It looked great, but had me struggle a lot with performance: it was the first time I had to spend a lot of time optimizing the game. And I loved that challenge. For example, I had to find a way to draw blood into the ground texture, so it doesn't take extra memory and the game runs smooth.</p>
+<p>Here are some screenshots:</p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="https://trost123.github.io/media/posts/5/gallery/scr1.jpg" ><img src="https://trost123.github.io/media/posts/5/gallery/scr1-thumbnail.jpg" alt="Crimson Squad screenshot 1" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://trost123.github.io/media/posts/5/gallery/scr2.jpg" ><img src="https://trost123.github.io/media/posts/5/gallery/scr2-thumbnail.jpg" alt="Crimson Squad screenshot 2" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://trost123.github.io/media/posts/5/gallery/scr3.jpg" ><img src="https://trost123.github.io/media/posts/5/gallery/scr3-thumbnail.jpg" alt="Crimson Squad screenshot 3" width="240" height="240"></a></figure>
+</div>
+<p>Sadly, the game didn't get released by a publisher for some reason. Also, because we sold an exclusive license for this game, I can't publish it anywhere, but you can check out the trailer:</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mymw5vBmwBQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Monster Craft - A good idea is worth a lot</title>
+        <author>
+            <name>Trost</name>
+        </author>
+        <link href="https://trost123.github.io/a-good-idea-is-worth-a-lot-monster-craft.html"/>
+        <id>https://trost123.github.io/a-good-idea-is-worth-a-lot-monster-craft.html</id>
+            <category term="gamedev"/>
+            <category term="flash"/>
+
+        <updated>2018-11-02T17:07:47+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://trost123.github.io/media/posts/6/o5JkkMz1.png" alt="" />
+                    So I was hanging out with my best friend and were brainstoring game&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://trost123.github.io/media/posts/6/o5JkkMz1.png" alt="" />
+                <p>So I was hanging out with my best friend and were brainstoring game ideas. We weren't planning to develop one together - we just enjoyed discussing interesting game ideas.</p>
+<p>That day we came up with the idea of <a href="https://armorgames.com/play/15629/monstercraft" target="_blank" rel="noopener noreferrer" title="Play MonsterCraft on ArmorGames">MonsterCraft</a>:</p>
+<ul>
+<li>Take a basic combination logic: A+B=C and use it to craft units. Make the result logical: robot+robot = bigger robot, zombie+zombie = big zombie, robot+zombie = cyborg zombie!
+<figure class="post__image undefined" ><img src="https://i.imgur.com/nKf4YWr.png" alt="Craftbook" width="668" height="464">
+<figcaption >So we came up with a 11-unit roster.</figcaption>
+</figure>
+</li>
+</ul>
+<p>I described the idea to the team I made <a href="#INTERNAL_LINK#/post/4">Cortex Fortress</a> with and we developed the game fairly quickly.</p>
+<p>It was quite successful: we got a lot of good reviews and people started making walthroughs and letsplays of MonsterCraft on youtube. One of those videos got 7 million views:</p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/_AL0MGdDcaQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Later we started to notice reskinned versions of our game on the web and android versions on Google Play Store:</p>
+<figure class="post__image undefined" ><img src="https://i.imgur.com/vu0NbU4.png">
+<figcaption >Reskinned clones of our game in Google Play</figcaption>
+</figure>
+<figure class="post__image undefined" ><img src="https://i.imgur.com/tpUoVA5.png">
+<figcaption >Letsplays of our game and clones of our game</figcaption>
+</figure>
+<p>We contacted Google to take those down. Eventually they did take down some of those, but new ones kept popping up and we gave up. I'd say proudly I accepted this as a sign of success and popularity.</p>
+<p>If you want, you <a href="https://armorgames.com/play/15629/monstercraft" title="Play MonsterCraft on ArmorGames" target="_blank" rel="noopener noreferrer">play MonsterCraft online on ArmorGames</a>.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Cortex Fortress - Developing together</title>
+        <author>
+            <name>Trost</name>
+        </author>
+        <link href="https://trost123.github.io/cortex-fortress-a-sequel-with-better-graphics.html"/>
+        <id>https://trost123.github.io/cortex-fortress-a-sequel-with-better-graphics.html</id>
+            <category term="gamedev"/>
+            <category term="flash"/>
+
+        <updated>2018-11-02T17:06:18+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://trost123.github.io/media/posts/4/7dYD18T1.png" alt="" />
+                    After releasing my first game - BrainDef, I got my first fan!&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://trost123.github.io/media/posts/4/7dYD18T1.png" alt="" />
+                <p>After releasing my first game - <a href="#INTERNAL_LINK#/post/2">BrainDef</a>, I got my first fan!</p>
+<p>It was not just an ordinary fan, it was a guy, experienced in making 2d and 3d art for games. He offered to join me and make another game for a 50\50 profits split when it goes live. I was so hyped back then! Later on he also invited his friend into our little team, who took care of SFX and music.</p>
+<p>Those people helped me gain confidence and motivation to release my games faster and brought the quality level of my games way up.</p>
+<p>You can watch this trailer:</p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/pPmsG3Zz3Jg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Or <a href="http://kbhgames.com/game/cortex-fortress" target="_blank" rel="noopener noreferrer">play it here</a>.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>BrainDef - My first game</title>
+        <author>
+            <name>Trost</name>
+        </author>
+        <link href="https://trost123.github.io/my-first-game-braindef.html"/>
+        <id>https://trost123.github.io/my-first-game-braindef.html</id>
+            <category term="gamedev"/>
+            <category term="flash"/>
+
+        <updated>2018-11-02T17:05:06+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://trost123.github.io/media/posts/2/IneK2YV1.png" alt="BrainDef flash game" />
+                    Back in 2012, after reading a lot of success stories on flashgamedev.ru I&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://trost123.github.io/media/posts/2/IneK2YV1.png" alt="BrainDef flash game" />
+                <p>Back in 2012, after reading a lot of success stories on <a href="http://flashgamedev.ru/">flashgamedev.ru</a> I decided to try creating a game myself.</p>
+<p>This was my first experience of programming. I used Adobe Flash (which uses ActionScript3 as a scripting language). I used <a href="http://gamedev.michaeljameswilliams.com/as3-avoider-game-tutorial-base/" target="_blank" rel="noopener noreferrer">this amazing tutorial</a> to learn how to create a basic shooter game in Flash, and then just remixed it a little.</p>
+<p>In this game you can find references to my favourite games of the time: Team Fortress 2, C&amp;C, Wormix.</p>
+<p>You can <a href="https://www.kongregate.com/games/trost123/braindef" target="_blank" rel="noopener noreferrer" title="Play BrainDef on Kongregate">play BrainDef on Kongregate</a>.</p>
+<p><img src="https://i.imgur.com/lgfecFT.png" alt="BrainDef screenshot" width="722" height="502"></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Animated banners - a first hobby job - </title>
+        <author>
+            <name>Trost</name>
+        </author>
+        <link href="https://trost123.github.io/animated-banners-a-first-hobby-job.html"/>
+        <id>https://trost123.github.io/animated-banners-a-first-hobby-job.html</id>
+            <category term="graphics"/>
+            <category term="flash"/>
+
+        <updated>2018-11-02T17:04:40+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://trost123.github.io/media/posts/3/maxresdefault1.jpg" alt="" />
+                    On my first year of university I started earning some pocket money as a&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://trost123.github.io/media/posts/3/maxresdefault1.jpg" alt="" />
+                <p>On my first year of university I started earning some pocket money as a freelancer. It wasn't much, but it was fun. I always wanted to become an animator - and this job was basically about animating adverisement banners in Adobe Flash.</p>
+<p>Here are some examples of those banners. For more you can <a href="https://www.fl.ru/users/billcosby/portfolio/" target="_blank" rel="noopener noreferrer">look into my fl.ru profile</a>.</p>
+<p><object id="viewattachswf_d38e6192e875efd80b6bb3cbd2330d4f" style="visibility: visible;" data="https://st.fl.ru/users/bi/billcosby/upload/f_4e8dec3962052.swf" type="application/x-shockwave-flash" width="188" height="257"><param name="allowscriptaccess" value="never" /><param name="wmode" value="" /></object> <object id="viewattachswf_dc25ad4f25238c4c3715ca19a2c9666f" style="visibility: visible;" data="https://st.fl.ru/users/bi/billcosby/upload/f_4ec03fdcad9eb.swf" type="application/x-shockwave-flash" width="468" height="90"><param name="allowscriptaccess" value="never" /><param name="wmode" value="" /></object></p>
+<p>The more I used Adobe Flash, the more creative I started getting. I found out that you can also do interactive stuff in flash, so I dived into simple scripting and created this: a plate-clock that shows real time, with a silly secret that you could find if you drag a knife or a fork with your mouse!<object id="viewattachswf_ed69d4f773657ec284ec32a98414e3f8" style="visibility: visible;" data="https://st.fl.ru/users/bi/billcosby/upload/f_4e78f787902ea.swf" type="application/x-shockwave-flash" width="500" height="500"><param name="allowscriptaccess" value="never" /><param name="wmode" value="" /></object></p>
+<p>Here are some screenshots for those, who can't use flash in their browser:</p>
+<p><img src="https://i.imgur.com/UXurmVH.png"></p>
+<p><img src="https://i.imgur.com/gofl8L8.png"> <img src="https://i.imgur.com/WfZIXiQ.png"> <img src="https://trost123.github.io/media/posts/3/d7jvduqi.bmp" alt="" width="150" height="195"></p>
+<p><img src="https://i.imgur.com/HC9wrCV.png"></p>
+<p>This was an incredible experience and helped me learn basics of animation and scripting, which I later used to <a href="#INTERNAL_LINK#/post/2">develop flash games</a>.</p>
             ]]>
         </content>
     </entry>
