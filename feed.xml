@@ -3,12 +3,72 @@
     <title>Things I did</title>
     <link href="https://trost123.github.io/feed.xml" rel="self" />
     <link href="https://trost123.github.io" />
-    <updated>2018-11-02T02:21:35+02:00</updated>
+    <updated>2018-11-02T02:22:12+02:00</updated>
     <author>
         <name>Trost</name>
     </author>
     <id>https://trost123.github.io</id>
 
+    <entry>
+        <title>My first game - BrainDef</title>
+        <author>
+            <name>Trost</name>
+        </author>
+        <link href="https://trost123.github.io/my-first-game-braindef.html"/>
+        <id>https://trost123.github.io/my-first-game-braindef.html</id>
+            <category term="gamedev"/>
+            <category term="flash"/>
+
+        <updated>2018-11-02T01:53:06+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://trost123.github.io/media/posts/2/IneK2YV1.png" alt="BrainDef flash game" />
+                    Back in 2012, after reading a lot of success stories on flashgamedev.ru I&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://trost123.github.io/media/posts/2/IneK2YV1.png" alt="BrainDef flash game" />
+                <p>Back in 2012, after reading a lot of success stories on <a href="http://flashgamedev.ru/">flashgamedev.ru</a> I decided to try creating a game myself.</p>
+<p>This was my first experience of programming. I used Adobe Flash (which uses ActionScript3 as a scripting language). I used <a href="http://gamedev.michaeljameswilliams.com/as3-avoider-game-tutorial-base/" target="_blank" rel="noopener noreferrer">this amazing tutorial</a> to learn how to create a basic shooter game in Flash, and then just remixed it a little.</p>
+<p>In this game you can find references to my favourite games of the time: Team Fortress 2, C&amp;C, Wormix.</p>
+<p>You can <a href="https://www.kongregate.com/games/trost123/braindef" target="_blank" rel="noopener noreferrer" title="Play BrainDef on Kongregate">play BrainDef on Kongregate</a>.</p>
+<p><img src="https://i.imgur.com/lgfecFT.png" alt="BrainDef screenshot" width="722" height="502"></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Animated Banners - a first hobby job</title>
+        <author>
+            <name>Trost</name>
+        </author>
+        <link href="https://trost123.github.io/animated-banners-a-first-hobby-job.html"/>
+        <id>https://trost123.github.io/animated-banners-a-first-hobby-job.html</id>
+            <category term="flash"/>
+            <category term="animation"/>
+
+        <updated>2018-11-02T02:16:17+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://trost123.github.io/media/posts/3/maxresdefault1.jpg" alt="" />
+                    Somwhere in 2011 (on my first year of university) I started earning some pocket&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://trost123.github.io/media/posts/3/maxresdefault1.jpg" alt="" />
+                <p>Somwhere in 2011 (on my first year of university) I started earning some pocket money as a freelancer. It wasn't much, but it was fun. I always wanted to become an animator - and this job was basically about animating adverisement banners in Adobe Flash.</p>
+<p>Here are some examples of those banners. For more you can <a href="https://www.fl.ru/users/billcosby/portfolio/" target="_blank" rel="noopener noreferrer">look into my fl.ru profile</a>.</p>
+<p><object id="viewattachswf_d38e6192e875efd80b6bb3cbd2330d4f" style="visibility: visible;" data="https://st.fl.ru/users/bi/billcosby/upload/f_4e8dec3962052.swf" type="application/x-shockwave-flash" width="188" height="257"><param name="allowscriptaccess" value="never" /><param name="wmode" value="" /></object> <object id="viewattachswf_dc25ad4f25238c4c3715ca19a2c9666f" style="visibility: visible;" data="https://st.fl.ru/users/bi/billcosby/upload/f_4ec03fdcad9eb.swf" type="application/x-shockwave-flash" width="468" height="90"><param name="allowscriptaccess" value="never" /><param name="wmode" value="" /></object></p>
+<p>The more I used Adobe Flash, the more creative I started getting. I found out that you can also do interactive stuff in flash, so I dived into simple scripting and created this: a plate-clock that shows real time, with a silly secret that you could find if you drag a knife or a fork with your mouse!<object id="viewattachswf_ed69d4f773657ec284ec32a98414e3f8" style="visibility: visible;" data="https://st.fl.ru/users/bi/billcosby/upload/f_4e78f787902ea.swf" type="application/x-shockwave-flash" width="500" height="500"><param name="allowscriptaccess" value="never" /><param name="wmode" value="" /></object></p>
+<p>Here are some screenshots for those, who can't use flash in their browser:</p>
+<p><img src="https://i.imgur.com/UXurmVH.png"></p>
+<p><img src="https://i.imgur.com/gofl8L8.png"> <img src="https://i.imgur.com/WfZIXiQ.png"> <img src="https://trost123.github.io/media/posts/3/d7jvduqi.bmp" alt="" width="150" height="195"></p>
+<p><img src="https://i.imgur.com/HC9wrCV.png"></p>
+<p>This was an incredible experience and helped me learn basics of animation and scripting, which I later used to <a href="#INTERNAL_LINK#/post/2">develop flash games</a>.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>How I made this site</title>
         <author>
