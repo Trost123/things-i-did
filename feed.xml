@@ -3,14 +3,14 @@
     <title>Things I did</title>
     <link href="https://trost123.github.io/feed.xml" rel="self" />
     <link href="https://trost123.github.io" />
-    <updated>2018-11-02T17:09:11+02:00</updated>
+    <updated>2018-11-05T13:32:50+02:00</updated>
     <author>
         <name>Trost</name>
     </author>
     <id>https://trost123.github.io</id>
 
     <entry>
-        <title>How I made this site</title>
+        <title>How I made this site - no programming, no hosting bills</title>
         <author>
             <name>Trost</name>
         </author>
@@ -18,7 +18,7 @@
         <id>https://trost123.github.io/how-i-made-this-site.html</id>
             <category term="webdev"/>
 
-        <updated>2018-11-02T00:33:25+02:00</updated>
+        <updated>2018-11-05T13:29:28+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://trost123.github.io/media/posts/1/tumblr_nmz6b7YNn11tn1d6wo1_1280-6448.jpg" alt="Mr. Robot. Hello friend." />
@@ -38,7 +38,42 @@
         </content>
     </entry>
     <entry>
-        <title>MonsterCraft2 - making sequels is hard</title>
+        <title>Goodbye Flash - 6 fun game drafts</title>
+        <author>
+            <name>Trost</name>
+        </author>
+        <link href="https://trost123.github.io/flash-protoypes-ideas-that-didnt-make-it.html"/>
+        <id>https://trost123.github.io/flash-protoypes-ideas-that-didnt-make-it.html</id>
+            <category term="gamedev"/>
+            <category term="flash"/>
+
+        <updated>2018-11-05T13:27:17+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://trost123.github.io/media/posts/9/flash_ded-02.jpg" alt="" />
+                    So, flash started dying and most developers migrated to either HTML5 or Unity\Unreal gamedev.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://trost123.github.io/media/posts/9/flash_ded-02.jpg" alt="" />
+                <p>So, <a href="http://isflashdeadyet.com/" target="_blank" rel="noopener noreferrer">flash started dying</a> and most developers migrated to either HTML5 or Unity\Unreal gamedev. As a farewell to all the fun times I had with flash - I wanna show you a collection of drafts I did in flash, that didn't become a full game.</p>
+<ol>
+<li><strong>No More Rockets</strong><br>Did you play Missile Command or Worms?<br><img src="https://thumbs.gfycat.com/PlaintiveUnsungBandicoot-small.gif" width="321" height="241"><br><br><img src="https://media.giphy.com/media/b8zPfUnMZT9RK/giphy.gif"><br>Well, I wanted to mix the destructible terrain from Worms and intercepting missles mechanic from MC into a new game. Together with an artist we created this prototype:<br><img src="https://i.imgur.com/cQ2y7Mt.png"><br>It was going to be a game about your immune system defending against evil bacteria. You control the blue little guy with WASD + LMB to shoot your gun, also you have 4 turrets, that fire slow AoE missles when you press space. I coded the destructible ground and it was a fun challenge, but it didn't go any futher, because both of us had lacked free time and vision on how to wrap this into a full game.<br>You can <a href="http://www.fastswf.com/ZDsHsLM" target="_blank" rel="noopener noreferrer">play No More Rockets here</a>.</li>
+<li><strong>Chebureki</strong><br>A joke game about Oleh Blokhin. <a href="https://www.youtube.com/watch?v=9aoDt-99B-o"></a><a href="https://www.youtube.com/watch?v=9aoDt-99B-o" title="Youtube video" target="_blank" rel="noopener noreferrer">Somebody threw a belyash at him</a> once, so my friend offered to make a short joke game about it.<br><img src="https://i.imgur.com/QtCG0cj.png">I used it as an opportunity to learn Box2D - a physics engine for Flash.<br><img src="http://i.imgur.com/OYheXSo.gif"><br>This allowed me to make a complex hitbox for chebureki (half-circle) and outline of our character, which resulted in opportunity to of hilarious stacking:<br><img src="https://i.imgur.com/y5kBAul.png" width="466" height="336"><img src="https://i.imgur.com/4MqCMYd.png"><br>You can <a href="http://www.fastswf.com/mWut3PY" target="_blank" rel="noopener noreferrer">play Chebureki here</a>.</li>
+<li><strong>WarTD</strong><br>A dropped attempt to develop a World War themed tower defence game.<br>The artist provided gread-looking renders of 3d map, turrets, enemies and explosion aimations, it could be a great game, but we ran out of motivation fast. I enjoyed the challenge of using <a href="https://en.wikipedia.org/wiki/Object-oriented_programming" target="_blank" rel="noopener noreferrer" title="Object-oriented programming">OOP</a> to program enemy logic, so that we could place waypoints in a visual editor and enemies would turn left\right when they step on it.<br><img src="https://i.imgur.com/Xp4hLdP.png"><br><img src="https://i.imgur.com/RSeLe1X.png"><br>You can <a href="http://www.fastswf.com/yowP-14" target="_blank" rel="noopener noreferrer">play WarTD here</a>.</li>
+<li><strong>Crane Master</strong><br>Another experiment with Box2d, kind of inspired by those Crane Machines where you could win toys.<br>Notice how the guy in the crane is moving his hands when you move the crane, the sawmill animation in the background and the rope physics.<br>Once again - fun mechanic to develop and mess around with, but didn't find a way to make a full game out of it.<br><img src="https://media.giphy.com/media/w79FWaXVnBsnfBvQsZ/giphy.gif"><br>You can <a href="http://www.fastswf.com/hp6k_kI"></a><a href="http://www.fastswf.com/hp6k_kI" target="_blank" rel="noopener noreferrer">play Crane Master here</a>. Controls are WASD+Space.</li>
+<li><strong>ILoveMyBox</strong><br>Yet another effort to create a physics-based game. This was planned to be a platformer about a cat who loves boxes. (Box design inspired by Companion Cube from Portal ♡)<br><img src="https://media.giphy.com/media/BWuQuYFxmJ2EpwjfIV/giphy.gif"><br>You can play <a href="http://www.fastswf.com/UBk7seU" target="_blank" rel="noopener noreferrer">ILoveMyBox here</a>. Left click to spawn\drag boxes. WASD to move. Warning: jumping doesn't work.</li>
+<li><strong>Conveyour Survival<br></strong>Yet another try to game a game based on physics. The idea was that you're on a conveyour and need to survive as long as possible. I didn't work long before dropping this one, as you can see.<br><img src="https://media.giphy.com/media/8mqy3jz3Zm4CRffaJp/giphy.gif"><br>You can <a href="http://www.fastswf.com/Yb7qe38" target="_blank" rel="noopener noreferrer">play Conveyour Survival here</a>.</li>
+</ol>
+<p>While we're on the topic of 2d physics-based games: I'd like to recommend <a href="https://store.steampowered.com/app/674940/Stick_Fight_The_Game/"></a><a href="https://store.steampowered.com/app/674940/Stick_Fight_The_Game/" title="Stick Fight: The Game on Steam" target="_blank" rel="noopener noreferrer">"Stick Fight: The Game"</a>. It has a lot of levels, great physics, and it's a fun to spend some time if you have 2+ gamepads and a 1+ gamer (girl)friends.<br><img src="https://cdn.steemitimages.com/DQmdYSY6nXK3vq8LVx7zAjChihrt9boXMP1sihpN6huDUnZ/lEizeNV.gif"></p>
+<p>Thanks for reading, if you got this far!</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>MonsterCraft 2 - making sequels is hard</title>
         <author>
             <name>Trost</name>
         </author>
@@ -47,7 +82,7 @@
             <category term="gamedev"/>
             <category term="flash"/>
 
-        <updated>2018-11-02T17:08:26+02:00</updated>
+        <updated>2018-11-02T17:18:34+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://trost123.github.io/media/posts/7/VNtOyGe1.png" alt="" />
@@ -69,6 +104,41 @@
 </ul>
 <img src="http://www.gamesforwork.com/games/images/Monster-Craft-2_September_11th_2015.jpg"><br>
 <p>You can <a href="http://www.crazygames.com/game/monster-craft-2" target="_blank" rel="noopener noreferrer">play MonsterCraft 2 here</a> or watch a let's play:<br><iframe width="560" height="315" src="https://www.youtube.com/embed/OF5UsS4UN0k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Awesome plumber - a tribute to Pipe Mania games</title>
+        <author>
+            <name>Trost</name>
+        </author>
+        <link href="https://trost123.github.io/awesome-plumber-.html"/>
+        <id>https://trost123.github.io/awesome-plumber-.html</id>
+            <category term="gamedev"/>
+            <category term="flash"/>
+
+        <updated>2018-11-05T11:08:39+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://trost123.github.io/media/posts/8/jTk6K5R.png" alt="" />
+                    My first years of school, affordable mobile phones were a new thing in&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://trost123.github.io/media/posts/8/jTk6K5R.png" alt="" />
+                <p>My first years of school, affordable mobile phones were a new thing in our country. Kids didn't own phones yet and my parents just got their first mobile phone. It was a Samsung C200. (I've no idea how I still remember the model number)</p>
+<figure class="post__image undefined" ><img src="http://content.onliner.by/news/tech/2004/11/005431.jpg" alt="Samsung C200">
+<figcaption >It looked something like this.</figcaption>
+</figure>
+<p>A tiny phone with colorful display and <a href="https://en.wikipedia.org/wiki/Polyphony" title="Polyphony on Wikipedia" target="_blank" rel="noopener noreferrer">polyphony</a> capable speaker. That was considered a quite advanced device back then.</p>
+<p>Being an innate gamer, I used it to play games. My favourite was called "Fun2Link", which was basically a "Pipe Mania" remake:</p>
+<p><img src="https://www.ferra.ru/images/149/149056.jpg"> <img src="https://files.ru.ladoshki.com/data/pocketpc/shots/f/Fun2Link_v1.0.gif"></p>
+<p>So in I wanted to do a tribute to this game. With the help of my friend, who drew the art, we created a flash game, called "Awesome Plumber".</p>
+<p><img src="https://i.imgur.com/veIDND0.png"></p>
+<p>The goal of the game is to build a path from the oasis, to the yellow "water" container, without letting it overflow. You get stars for water passing through golden pipes.</p>
+<p>Also, I added a little easter egg in the title screen: when you hover your cursor over the red "start game" valve - it will spin. The longer you hover the cursor - the faster, no speed limits 😊</p>
+<p>You can <a href="http://www.fastswf.com/DcF400s"></a><a href="http://www.fastswf.com/DcF400s" target="_blank" rel="noopener noreferrer">play Awesome Plumber here</a>.</p>
             ]]>
         </content>
     </entry>
