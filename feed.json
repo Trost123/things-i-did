@@ -27,6 +27,23 @@
             "date_modified": "2018-11-11T01:29:37+02:00"
         },
         {
+            "id": "https://trost123.github.io/office.html",
+            "url": "https://trost123.github.io/office.html",
+            "title": "Flash developer at Nika Entertainment",
+            "summary": "Tools: Adobe Flash (platform), Action Script 3 (Language), Git (version control), Redmine&hellip;",
+            "content_html": "<p class=\"msg msg--info\">Tools: Adobe Flash (platform), Action Script 3 (Language), Git (version control), Redmine (issue tracking), Unity (Game engine), C# (Language)</p>\n<p>Company: <a href=\"http://nikaent.com/en/\">Nika Entertainment<br></a>Role: AS3 developer, Unity developer<br>Project: Crystal Blitz (match 3, puzzle)</p>\n<p><img src=\"https://images-na.ssl-images-amazon.com/images/I/B1LM%2BW-DmxS.png\"></p>\n<p> </p>\n<p> </p>\n<p>More about it on my blog: <a href=\"https://trost123.wordpress.com/2014/11/14/crystal-blitz-first-office-job/\" rel=\"bookmark\">Crystal Blitz – First office job</a></p>",
+            "image": "https://trost123.github.io/media/posts/12/crystall_preload_en1.png",
+            "author": {
+                "name": "Trost"
+            },
+            "tags": [
+                   "gamedev",
+                   "flash"
+            ],
+            "date_published": "2014-11-14T17:01:00+02:00",
+            "date_modified": "2018-11-11T17:12:04+02:00"
+        },
+        {
             "id": "https://trost123.github.io/awesome-plumber-.html",
             "url": "https://trost123.github.io/awesome-plumber-.html",
             "title": "Awesome plumber (Flash game, Arcade puzzle)",
