@@ -3,7 +3,7 @@
     <title>Things I did</title>
     <link href="https://trost123.github.io/feed.xml" rel="self" />
     <link href="https://trost123.github.io" />
-    <updated>2018-11-11T17:12:22+02:00</updated>
+    <updated>2018-11-11T17:17:15+02:00</updated>
     <author>
         <name>Trost</name>
     </author>
@@ -19,7 +19,7 @@
             <category term="gamedev"/>
             <category term="flash"/>
 
-        <updated>2018-11-11T01:29:37+02:00</updated>
+        <updated>2018-11-11T17:17:06+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://trost123.github.io/media/posts/7/VNtOyGe1.png" alt="" />
@@ -55,7 +55,7 @@
             <category term="gamedev"/>
             <category term="flash"/>
 
-        <updated>2018-11-11T17:12:04+02:00</updated>
+        <updated>2018-11-11T17:16:49+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://trost123.github.io/media/posts/12/crystall_preload_en1.png" alt="" />
@@ -68,8 +68,6 @@
                 <p class="msg msg--info">Tools: Adobe Flash (platform), Action Script 3 (Language), Git (version control), Redmine (issue tracking), Unity (Game engine), C# (Language)</p>
 <p>Company: <a href="http://nikaent.com/en/">Nika Entertainment<br></a>Role: AS3 developer, Unity developer<br>Project: Crystal Blitz (match 3, puzzle)</p>
 <p><img src="https://images-na.ssl-images-amazon.com/images/I/B1LM%2BW-DmxS.png"></p>
-<p> </p>
-<p> </p>
 <p>More about it on my blog: <a href="https://trost123.wordpress.com/2014/11/14/crystal-blitz-first-office-job/" rel="bookmark">Crystal Blitz – First office job</a></p>
             ]]>
         </content>
